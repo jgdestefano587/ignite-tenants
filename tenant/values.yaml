@@ -5,3 +5,5 @@ tenant_groups:
   - name: anay
     gmail: anay.khandekar@mavenwave.com
 
+  - name: jack
+    gmail: jack.destefano@mavenwave.com
